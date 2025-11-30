@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6919dc1a69c9bf915729f13c"
+  },
+  "name": "Test User",
+  "email": "test@example.com",
+  "password": "test",
+  "profile_picture": "uploads/profile_6919dd0126d860e30f009188.jpg"
+},
+{
+  "_id": {
+    "$oid": "69266ab5ef20f232ab03e4fa"
+  },
+  "name": "Red",
+  "email": "red@yahoo.com",
+  "password": "$2y$10$E35DDtyFiO1uaZjf.NVuxO4adMdhvJ0ImW6wSYWGxdeUmzq2nRrPu",
+  "profile_picture": "image/profile_69266ab5ef20f232ab03e4fa.jpg"
+},
+{
+  "_id": {
+    "$oid": "692674b2ef20f232ab03e4fb"
+  },
+  "name": "Mark Owen",
+  "email": "mbadua36@gmail.com",
+  "password": "$2y$10$ITt5r/jLxsTtyRk7DsbUdesKNpWv2kd.2LHKkau3OEXrHJr9jfrGq",
+  "profile_picture": "image/profile_692674b2ef20f232ab03e4fb.jpg"
+},
+{
+  "_id": {
+    "$oid": "69270cc4f4e792861a0d6cfa"
+  },
+  "name": "Kai Sotto",
+  "email": "warningpogi123@gmail.com",
+  "password": "$2y$10$pfPab3t4ob0ClTBp5RXC0ea5Fw59jTzC8nZlhDLWOGrUbmWz1pc0m",
+  "profile_picture": "image/profile_69270cc4f4e792861a0d6cfa.png"
+},
+{
+  "_id": {
+    "$oid": "6927b35f9f5553544904923d"
+  },
+  "name": "Sir Bads",
+  "email": "davinci112099@gmail.com",
+  "password": "$2y$10$jAwPbJB6p8dvpzeac7nqqunB6U5iLcRPCRHL4n77ybspF932v0rGi",
+  "profile_picture": "image/profile_6927b35f9f5553544904923d.png"
+},
+{
+  "_id": {
+    "$oid": "6927beb0aa40783c14082842"
+  },
+  "name": "Fria",
+  "email": "friajeffrey29@gmail.com",
+  "password": "$2y$10$RmuFk97XtkpuuUkR9Vj2LuLfW96vcsUHU0fAo9.tGQsq6JMtZDJEu",
+  "profile_picture": "image/profile_6927beb0aa40783c14082842.jpg"
+}]

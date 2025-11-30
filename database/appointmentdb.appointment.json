@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "69270d1af4e792861a0d6cfc"
+  },
+  "user_id": "69270cc4f4e792861a0d6cfa",
+  "service_id": "69241f93480156d6380e297f",
+  "staff_id": "692420b7480156d6380e2982",
+  "appointment_datetime": "2025-11-28 23:23",
+  "status": "pending",
+  "notes": "please be gentle",
+  "created_at": "2025-11-26 15:22:18",
+  "updated_at": "2025-11-26 15:22:18",
+  "total_price": 500,
+  "payment_status": "pending",
+  "payment_method": "cash",
+  "transaction_id": "",
+  "payment_date": ""
+},
+{
+  "_id": {
+    "$oid": "6927b4859f55535449049240"
+  },
+  "user_id": "6927b35f9f5553544904923d",
+  "service_id": "69241d0e480156d6380e297b",
+  "staff_id": "692420b7480156d6380e2982",
+  "appointment_datetime": "2025-11-28 11:15",
+  "status": "pending",
+  "notes": "Ayusin mo",
+  "created_at": "2025-11-27 03:16:37",
+  "updated_at": "2025-11-27 03:16:37",
+  "total_price": 250,
+  "payment_status": "pending",
+  "payment_method": "cash",
+  "transaction_id": "",
+  "payment_date": ""
+},
+{
+  "_id": {
+    "$oid": "6927bf01aa40783c14082845"
+  },
+  "user_id": "6927beb0aa40783c14082842",
+  "service_id": "69241db4480156d6380e297c",
+  "staff_id": "6926ebd8f4e792861a0d6cf8",
+  "appointment_datetime": "2025-11-28 13:02",
+  "status": "pending",
+  "notes": "Fria",
+  "created_at": "2025-11-27 04:01:21",
+  "updated_at": "2025-11-27 04:01:21",
+  "total_price": 300,
+  "payment_status": "pending",
+  "payment_method": "gcash",
+  "transaction_id": "",
+  "payment_date": ""
+}]

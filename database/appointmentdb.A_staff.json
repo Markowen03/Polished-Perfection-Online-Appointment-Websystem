@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "692420b7480156d6380e2982"
+  },
+  "name": "Jennie Kim",
+  "age": 23,
+  "address": "San Miguel, Puerto Princesa, Palawan",
+  "image": "edcf5265dcb20155209e30df54a1ab4f.jpg"
+},
+{
+  "_id": {
+    "$oid": "69242120480156d6380e2983"
+  },
+  "name": "Rose",
+  "age": 25,
+  "address": "San Jose, Puerto Princesa Palawan",
+  "image": "1501239.jpg"
+},
+{
+  "_id": {
+    "$oid": "692486a15ec8dd12d80e9302"
+  },
+  "name": "Lisa",
+  "age": 20,
+  "address": "San Pedro, Puerto Princesa",
+  "image": "1115643.jpg"
+},
+{
+  "_id": {
+    "$oid": "6926ebd8f4e792861a0d6cf8"
+  },
+  "name": "Nigga",
+  "age": 20,
+  "address": "Sicsican",
+  "image": "Larry-Gadon.jpg"
+}]

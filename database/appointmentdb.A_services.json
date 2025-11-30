@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "69241c70480156d6380e297a"
+  },
+  "service_name": "Black Nails",
+  "price": 200,
+  "description": "Our classic manicure usually takes about 30 to 40 minutes. During this service, our staff will clean and sanitize your hands, shape your nails to your preferred length, gently care for your cuticles, give you a relaxing hand massage, and finish with a base coat, two coats of your chosen polish, and a glossy top coat.",
+  "image": "black-nails.jpeg",
+  "created_at": "2025-11-24 09:50:56"
+},
+{
+  "_id": {
+    "$oid": "69241d0e480156d6380e297b"
+  },
+  "service_name": "Pink Floral Nails",
+  "price": 250,
+  "description": "Our classic manicure usually takes about 30 to 40 minutes. During this service, our staff will clean and sanitize your hands, shape your nails to your preferred length, gently care for your cuticles, give you a relaxing hand massage, and finish with a base coat, two coats of your chosen polish, and a glossy top coat.",
+  "image": "C7CDBA1C-AAAB-4056-98C1-EF4B570D6373.jpeg",
+  "created_at": "2025-11-24 09:53:34"
+},
+{
+  "_id": {
+    "$oid": "69241db4480156d6380e297c"
+  },
+  "service_name": "Gold Glitter Nails",
+  "price": 300,
+  "description": "Our classic manicure usually takes about 30 to 40 minutes. During this service, our staff will clean and sanitize your hands, shape your nails to your preferred length, gently care for your cuticles, give you a relaxing hand massage, and finish with a base coat, two coats of your chosen polish, and a glossy top coat.",
+  "image": "d674aaeb38b8f72aa17b79e0c1a4a0d2.png",
+  "created_at": "2025-11-24 09:56:20"
+},
+{
+  "_id": {
+    "$oid": "69241e39480156d6380e297d"
+  },
+  "service_name": "Green Art Nails",
+  "price": 200,
+  "description": "Our classic manicure usually takes about 30 to 40 minutes. During this service, our staff will clean and sanitize your hands, shape your nails to your preferred length, gently care for your cuticles, give you a relaxing hand massage, and finish with a base coat, two coats of your chosen polish, and a glossy top coat.",
+  "image": "person-woman-art-704815.jpg",
+  "created_at": "2025-11-24 09:58:33"
+},
+{
+  "_id": {
+    "$oid": "69241e8d480156d6380e297e"
+  },
+  "service_name": "Leopard Tip Nails",
+  "price": 300,
+  "description": "Our classic manicure usually takes about 30 to 40 minutes. During this service, our staff will clean and sanitize your hands, shape your nails to your preferred length, gently care for your cuticles, give you a relaxing hand massage, and finish with a base coat, two coats of your chosen polish, and a glossy top coat.",
+  "image": "312073044_439701524962524_22546120654305561_n-992x1024-1-768x793.jpeg",
+  "created_at": "2025-11-24 09:59:57",
+  "updated_at": "2025-11-25 12:19:26"
+},
+{
+  "_id": {
+    "$oid": "69241f93480156d6380e297f"
+  },
+  "service_name": "Chrome Nails",
+  "price": 500,
+  "description": "Our classic manicure usually takes about 30 to 40 minutes. During this service, our staff will clean and sanitize your hands, shape your nails to your preferred length, gently care for your cuticles, give you a relaxing hand massage, and finish with a base coat, two coats of your chosen polish, and a glossy top coat.",
+  "image": "cde686cd8e19e29d94e2e18926091bd2.jpg",
+  "created_at": "2025-11-24 10:04:19",
+  "updated_at": "2025-11-27 03:01:25"
+}]
